@@ -21,11 +21,3 @@ class SplashPage extends StatelessWidget {
     );
   }
 }
-
-
-//  body: Padding(
-//         padding: const EdgeInsets.all(80),
-//         child: Center(
-//           child: Image.asset('assets/images/strawti_logo.png'),
-//         ),
-//       ),
